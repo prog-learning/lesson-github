@@ -11,3 +11,7 @@ fork は GitHub に保存されている他の人の Repsitory をコピーし�
 試しにこの`lesson-github`という Repository を fork してみましょう.
 
 [https://github.com/prog-learning/lesson-github](https://github.com/prog-learning/lesson-github)で,右上の**Fork**というボタンを押してみましょう.
+
+成功していたら,自分の Repository に`lesson-github`が保存されているはずです.
+
+[次の Lesson へ](/lesson03)
